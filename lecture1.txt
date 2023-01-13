@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href = "new 1.css">
+<title> Welcome Page </title>
+</head>
+
+<body>
+
+<h1>
+Hello world!
+</h1>
+
+
+</body>
+</html>
